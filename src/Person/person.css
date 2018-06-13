@@ -1,0 +1,9 @@
+.Aadmi{
+    width:60%;                                                           ;
+    margin:10px auto;
+    padding:20px;
+    background-color:#eee;
+    border:1px solid #ccc;
+    text-align: center;
+    box-shadow:1px 2px 1px grey;        
+}
